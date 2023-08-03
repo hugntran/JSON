@@ -1,0 +1,22 @@
+[
+    {
+        "name": "ThiDK",
+        "city": "Ha Noi",
+        "state": "HN"
+    },
+    {
+        "name": "Dang Kim Thi",
+        "city": "Ha Noi",
+        "state": "HN"
+    },
+    {
+        "name": "Nhan vien A",
+        "city": "Nam Dinh",
+        "state": "ND"
+    },
+    {
+        "name": "Nhan vien B",
+        "city": "Ha Tay",
+        "state": "HN2"
+    }
+]
